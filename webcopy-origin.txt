@@ -1,0 +1,172 @@
+Uri: https://ssstik.io/tr
+File Name: C:\Downloaded Web Sites\ssstik.io\tr.html
+Content Type: text/html
+
+Uri: https://unpkg.com/purecss@2.0.3/build/pure-min.css
+File Name: C:\Downloaded Web Sites\ssstik.io\purecss@2.0.3\build\pure-min.css
+Content Type: text/css
+
+Uri: https://unpkg.com/purecss@2.0.3/build/grids-responsive-min.css
+File Name: C:\Downloaded Web Sites\ssstik.io\purecss@2.0.3\build\grids-responsive-min.css
+Content Type: text/css
+
+Uri: https://ssstik.io/css/style.min.css?v=1.0.11
+File Name: C:\Downloaded Web Sites\ssstik.io\css\style.min.css
+Content Type: text/css
+
+Uri: https://ssstik.io/favicon.ico
+File Name: C:\Downloaded Web Sites\ssstik.io\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ssstik.io/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://ssstik.io/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\ssstik.io\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://ssstik.io/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\ssstik.io\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://ssstik.io/site.webmanifest
+File Name: C:\Downloaded Web Sites\ssstik.io\site.webmanifest
+Content Type: 
+
+Uri: https://ssstik.io/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\ssstik.io\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://ssstik.io/apple-touch-icon-precomposed.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon-precomposed.png
+Content Type: image/png
+
+Uri: https://ssstik.io/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon-72x72-precomposed.png
+Content Type: image/png
+
+Uri: https://ssstik.io/apple-touch-icon-76x76-precomposed.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon-76x76-precomposed.png
+Content Type: image/png
+
+Uri: https://ssstik.io/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon-114x114-precomposed.png
+Content Type: image/png
+
+Uri: https://ssstik.io/apple-touch-icon-120x120-precomposed.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon-120x120-precomposed.png
+Content Type: image/png
+
+Uri: https://ssstik.io/apple-touch-icon-144x144-precomposed.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon-144x144-precomposed.png
+Content Type: image/png
+
+Uri: https://ssstik.io/apple-touch-icon-152x152-precomposed.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon-152x152-precomposed.png
+Content Type: image/png
+
+Uri: https://ssstik.io/apple-touch-icon-180x180-precomposed.png
+File Name: C:\Downloaded Web Sites\ssstik.io\apple-touch-icon-180x180-precomposed.png
+Content Type: image/png
+
+Uri: https://ssstik.io/android-chrome-192x192.png
+File Name: C:\Downloaded Web Sites\ssstik.io\android-chrome-192x192.png
+Content Type: image/png
+
+Uri: https://ssstik.io/android-chrome-512x512.png
+File Name: C:\Downloaded Web Sites\ssstik.io\android-chrome-512x512.png
+Content Type: image/png
+
+Uri: https://play.google.com/store/apps/details?id=com.sss.video.downloader.tiktok&referrer=utm_source%3Dssstiktok%26utm_medium%3Dtext%26utm_term%3Dall%26anid%3Dadmob
+File Name: C:\Downloaded Web Sites\ssstik.io\store\apps\details.html
+Content Type: text/html
+
+Uri: https://ssstik.io/tr/how-to-download-tiktok-video
+File Name: C:\Downloaded Web Sites\ssstik.io\tr\how-to-download-tiktok-video.html
+Content Type: text/html
+
+Uri: https://ssstik.io/tr/download-tiktok-mp3
+File Name: C:\Downloaded Web Sites\ssstik.io\tr\download-tiktok-mp3.html
+Content Type: text/html
+
+Uri: https://play.google.com/store/apps/details?id=com.sss.video.downloader.tiktok&referrer=utm_source%3Dssstiktok%26utm_medium%3Dbanner%26utm_term%3Dall%26anid%3Dadmob
+File Name: C:\Downloaded Web Sites\ssstik.io\store\apps\details-1.html
+Content Type: text/html
+
+Uri: https://ssstik.io/tr/privacy
+File Name: C:\Downloaded Web Sites\ssstik.io\tr\privacy.html
+Content Type: text/html
+
+Uri: https://ssstik.io/tr/faq
+File Name: C:\Downloaded Web Sites\ssstik.io\tr\faq.html
+Content Type: text/html
+
+Uri: https://likeedownloader.com/
+File Name: C:\Downloaded Web Sites\ssstik.io\index.htm
+Content Type: text/html
+
+Uri: https://ssstwitter.com/
+File Name: C:\Downloaded Web Sites\ssstik.io\index-1.htm
+Content Type: text/html
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5471711108468793
+File Name: C:\Downloaded Web Sites\ssstik.io\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Downloaded Web Sites\ssstik.io\pagead\js\f-1.txt
+Content Type: text/javascript
+
+Uri: https://www.googletagmanager.com/ns.html?id=GTM-K3K8RD9
+File Name: C:\Downloaded Web Sites\ssstik.io\ns.html
+Content Type: text/html
+
+Uri: https://unpkg.com/htmx.org@0.0.8/dist/htmx.min.js
+File Name: C:\Downloaded Web Sites\ssstik.io\htmx.org@0.0.8\dist\htmx.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/htmx.org@0.0.8/dist/ext/include-vals.js
+File Name: C:\Downloaded Web Sites\ssstik.io\htmx.org@0.0.8\dist\ext\include-vals.js
+Content Type: application/javascript
+
+Uri: https://marketingplatform.google.com/about/analytics/
+File Name: C:\Downloaded Web Sites\ssstik.io\about\analytics\index.htm
+Content Type: text/html
+
+Uri: https://twitter.com/ssstiktok2
+File Name: C:\Downloaded Web Sites\ssstik.io\ssstiktok2.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/ssstiktok4/
+File Name: C:\Downloaded Web Sites\ssstik.io\ssstiktok4\index.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/watch?v=rSZldg4gm0w
+File Name: C:\Downloaded Web Sites\ssstik.io\watch.html
+Content Type: text/html
+
+Uri: https://vimeo.com/445802920
+File Name: C:\Downloaded Web Sites\ssstik.io\445802920.html
+Content Type: text/html
+
+Uri: https://medium.com/@ssstwitter.com
+File Name: C:\Downloaded Web Sites\ssstik.io\@ssstwitter.com.html
+Content Type: text/html
+
+Uri: https://ssstiktok.blogspot.com/
+File Name: C:\Downloaded Web Sites\ssstik.io\index-2.htm
+Content Type: text/html
+
+Uri: https://ssstiktokdownloader.wordpress.com/
+File Name: C:\Downloaded Web Sites\ssstik.io\index-3.htm
+Content Type: text/html
+
+Uri: https://www.last.fm/user/ssstiktok
+File Name: C:\Downloaded Web Sites\ssstik.io\user\ssstiktok.html
+Content Type: text/html
+
+Uri: https://about.me/ssstiktok
+File Name: C:\Downloaded Web Sites\ssstik.io\ssstiktok.html
+Content Type: text/html
+
